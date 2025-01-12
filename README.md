@@ -1,0 +1,1 @@
+# Konsolowy-Dziennik-Elektroniczny
