@@ -1,1 +1,1 @@
-# Konsolowy-Dziennik-Elektroniczny
+# Projekt C#
