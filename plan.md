@@ -1,24 +1,9 @@
 # Plan rzeczy do zrobienia
 
 ## Funkcjonalności
-oceny
-- dodawanie oceny (zmiana, usuwanie)
-- wystawianie końcowych
-- obliczanie średnich
-frekwencja
-- usprawiedliwienia, zwolnienia
-plan lekcji
-- wprowadź plan, 
-- dla nauczycieli: dyżury
-uwagi/pochwały
-- dodawanie, usuwanie, modyfikacja, odczyt
-sprawdziany/zadania domowe
-- to musi być oddzielnie
-wiadomości
-- wysyłanie do jednej osoby
-- wysyłanie do wielu osób
-- wysyłanie do grupy osób
-- wysyłanie do wybranych/wszystkich grup
+- informacje o koncie
+- ustawienia (kolorki, itd.)
+
 
 
 ## Role
@@ -46,8 +31,10 @@ wiadomości
   - księgowa
     - wysyłanie/odczyt wiadomości od konkretnych osób/grup osób(+ informacja o tym czy wiadomość została odczytana)
     - dodawanie nieobecności nauczycieli
+    - powiadomienia
   - inni
     - wysyłanie/odczyt wiadomości od konkretnych osób/grup osób(+ informacja o tym czy wiadomość została odczytana)
+    - powiadomienia
 - rodzic
   - odczyt zadań domowych i sprawdzianów
   - wysyłanie/odczyt wiadomości od konkretnych osób/grup osób(+ informacja o tym czy wiadomość została odczytana)
