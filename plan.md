@@ -1,6 +1,7 @@
 # Plan rzeczy do zrobienia
 
 ## Funkcjonalności
+
 oceny
 - dodawanie oceny (zmiana, usuwanie)
 - wystawianie końcowych
@@ -22,8 +23,8 @@ wiadomości
 
 
 ## Role
+
 - administrator systemu
-    - 
 - administrator szkoły
 - dyrektor/wice-dyrektor szkoły
 - nauczyciel
@@ -59,3 +60,19 @@ wiadomości
   - możliwość usprawiedliwiania dla dorosłych uczniów
   - zebrania
   - spis swoich nauczycieli
+
+
+
+
+## Menu
+
+### Menu główne
+ - zaloguj
+ - wyjdź
+
+### Menu po zalogowaniu
+- dziennik
+- wiadomości
+- opcje
+- wyloguj
+
