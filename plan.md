@@ -3,15 +3,17 @@
 ## Funkcjonalności
 - informacje o koncie
 - ustawienia (kolorki, itd.)
-
+- zapisywanie logów
 
 
 ## Role
 - administrator systemu
   - dodawanie/edycja/usuwanie szkół
+  - odczyt logów w aplikacji
   - wszytko co niżej
 - administrator szkoły
   - dodawanie/edycja/usuwanie pracowników i uczniów (za zatwierdzeniem dyrektora)
+  - odczyt logów w aplikacji
   - wszystko co niżej
 - dyrektor/wice-dyrektor szkoły
   - edycja planu lekcji
