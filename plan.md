@@ -11,9 +11,9 @@
   - dodawanie/edycja/usuwanie szkół
   - wszytko co niżej
 - administrator szkoły
-  - wszystko co niżej + zmiana dyrektora
+  - dodawanie/edycja/usuwanie pracowników i uczniów (za zatwierdzeniem dyrektora)
+  - wszystko co niżej
 - dyrektor/wice-dyrektor szkoły
-  - dodawanie/edycja/usuwanie pracowników
   - edycja planu lekcji
   - wszystko co niżej
   - dodanie w planie z góry świąt i dni wolnych w planie(wychowawcy nie mogą tego nadpisać)
