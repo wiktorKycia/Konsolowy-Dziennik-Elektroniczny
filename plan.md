@@ -3,10 +3,7 @@
 ## Funkcjonalności
 
 - plan lekcji
-  - edycja
-    - dni wolne
-    - brak nauczyciela
-    - brak oddziału
+  - ustawiony odgórnie, jako pomoc do frekwencji
 - sprawdziany
 - zadania domowe
 - oceny
