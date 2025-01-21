@@ -2,6 +2,23 @@
 
 ## Funkcjonalności
 
+- wiele szkół
+- zarządzanie pracownikami
+- plan lekcji
+  - wprowadzanie
+  - edycja
+    - dni wolne
+    - brak nauczyciela
+    - brak oddziału
+- sprawdziany
+- zadania domowe
+- mechanizm wiadomości (poczta)
+- frekwencja uczniów
+  - obecności
+  - zwolnienia
+  - usprawiedliwienia
+- zebrania
+- wycieczki
 - informacje o koncie
 - ustawienia (kolorki, itd.)
 - zapisywanie logów
