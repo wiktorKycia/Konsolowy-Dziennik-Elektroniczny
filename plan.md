@@ -1,12 +1,14 @@
 # Plan rzeczy do zrobienia
 
 ## Funkcjonalności
+
 - informacje o koncie
 - ustawienia (kolorki, itd.)
 - zapisywanie logów
 
 
 ## Role
+
 - administrator systemu
   - dodawanie/edycja/usuwanie szkół
   - odczyt logów w aplikacji
@@ -60,4 +62,19 @@
   - możliwość usprawiedliwiania dla dorosłych uczniów
   - zebrania, wycieczki
   - spis swoich nauczycieli
+
   - powiadomienia
+
+
+## Menu
+
+### Menu główne
+ - zaloguj
+ - wyjdź
+
+### Menu po zalogowaniu
+- dziennik
+- wiadomości
+- opcje
+- wyloguj
+
